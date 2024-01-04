@@ -2,6 +2,8 @@
 
 This project implements a decoder-only transformer model using PyTorch, designed for text generation tasks. The primary goal is to generate Shakespeare-like text sequences by predicting the next character in a sequence based on the context of previous characters.
 
+Google Colab Link: [https://colab.research.google.com/drive/1Jwn6bEMDcNY20YBtTdfDgECoHDhqgwko?usp=sharing][https://colab.research.google.com/drive/1Jwn6bEMDcNY20YBtTdfDgECoHDhqgwko?usp=sharing]
+
 ## Overview
 
 The implementation includes:
